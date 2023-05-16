@@ -16,6 +16,10 @@ examples on Bitnami website (see their tutorials).
 
 | Important: I am not anyhow related to Apache Kafka and Bitnami company.
 
+## Application connection
+Use port 9094 to connect to Kafka instance. The port 9092 is not exposed and is
+used internally.
+
 # Licence
 
     Docker Compose file for Kafka
